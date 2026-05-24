@@ -43,5 +43,4 @@ Example columns:
 ## Output
 The model predicts sales based on advertisement spending and shows the relationship using graphs.
 
-## Author
-Created as part of internship/project learning.
+
